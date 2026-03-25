@@ -1,7 +1,7 @@
 # MoTUI: Personalization of In-Vehicle Tactile Interfaces for People With Vision Impairments and the Blind
 
 <p align="center">
-  <img src="teaser.png" alt="MoTUI Teaser Figure" width="100%">
+  <img src="images/teaserfig.png" alt="MoTUI Teaser Figure" width="100%">
 </p>
 
 <p align="center">
