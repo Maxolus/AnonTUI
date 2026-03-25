@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://doi.org/XXXXXXX.XXXXXXX"><img src="https://img.shields.io/badge/DOI-10.1145%2FXXXXXXX.XXXXXXX-blue?logo=doi" alt="DOI"></a>
   <a href="https://arxiv.org/abs/XXXX.XXXXX"><img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b?logo=arxiv" alt="arXiv"></a>
-  <a href="#"><img src="https://img.shields.io/badge/UIST%202026-Accepted-brightgreen" alt="UIST 2026"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
   <a href="#"><img src="https://img.shields.io/badge/Open%20Source-Hardware%20%2B%20Software-orange?logo=opensourceinitiative" alt="Open Source"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white" alt="Python 3.12"></a>
